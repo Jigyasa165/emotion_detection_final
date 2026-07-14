@@ -1,13 +1,16 @@
 # Emotion Detector
 
-Final project for the IBM Coursera course **Developing AI Applications with Python and Flask**.
+Final Project for IBM Coursera
 
-## Technologies Used
+## Description
+
+This project detects emotions from text using the IBM Watson NLP Emotion Prediction API.
+
+## Technologies
 
 - Python
 - Flask
 - Requests
-- IBM Watson NLP API
 
 ## Author
 
